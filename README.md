@@ -8,7 +8,7 @@ Open `index.html` locally or publish the repository through a static hosting pro
 
 ## Change Log
 
-### 2026-09-28 03:xx Europe/Vienna (CEST) — Documentation / Portfolio
+### 2026-09-28 03:41 Europe/Vienna (CEST) — Documentation / Portfolio
 - Added project-specific README documentation describing the static website structure and publication model.
 
-> Time is recorded in Europe/Vienna; the repository change was made during this work session.
+> The timestamp uses the verified Europe/Vienna minute in which the change set's draft PR was created.
